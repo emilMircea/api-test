@@ -1,0 +1,1 @@
+{"0":{"vcpus":1,"clock":1500,"ram":4096,"storage":128,"network":1000,"state":"Stopped"},"1":{"vcpus":4,"clock":3600,"ram":32768,"storage":512,"network":10000,"state":"Stopped"},"2":{"vcpus":2,"clock":2200,"ram":8192,"storage":256,"network":1000,"state":"Stopped"}}
